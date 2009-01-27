@@ -1,0 +1,10 @@
+RailsDevBoostConcernedWithFix
+==========================
+
+Fixes an incompatibility between a concerned_with[http://github.com/jakehow/concerned_with] and rails-dev-boost[http://github.com/thedarkone/rails-dev-boost] plugins.
+
+Usage
+=======
+
+The plugin needs to be loaded after both the concerned_with and rails-dev-boost plugins (that is what Rails will do by default).
+
